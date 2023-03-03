@@ -7,9 +7,9 @@ I ❤️ coding and creating visualizations - be it R, Python, HTML.
 Things I am excited to learn about these days.
 
  - Time series forecasting using scalable methods
+ - Causal Inference
  - Ray for scalable ML
  - Bayesian statistics
- - TFX and Google vertex-ai
 
 
 
