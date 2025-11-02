@@ -1,8 +1,8 @@
 ### Hi there, I am Rahul. 👋
 
-I am a Senior Data Scientist at Nestle. I like solving business problems using scalable machine learning approaches.
+I am a Data Scientist at Amazon. I like solving business problems using scalable machine learning approaches.
 
-I ❤️ coding and creating visualizations - be it R, Python, HTML.
+I ❤️ coding and creating visualizations - be it Python, R, Rust, HTML.
 
 Things I am excited to learn about these days.
 
